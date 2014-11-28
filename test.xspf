@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<title>VA / Top 500 Rock and Roll Songs (2008) МР3, 192 Кбит/c</title>
+<location>http://www.ex.ua/view/772303</location>
+<trackList>
+<track>
+	<title>001 - Led Zeppelin - Stairway To Heaven.mp3</title>
+	<location>http://www.ex.ua/get/1515691</location>
+</track>
+<track>
+	<title>002 - The Rolling Stones - Satisfaction.mp3</title>
+	<location>http://www.ex.ua/get/1515693</location>
+</track>
+<track>
+	<title>003 - Derek and the Dominos - Layla.mp3</title>
+	<location>http://www.ex.ua/get/1515695</location>
+</track>
+<track>
+	<title>004 - The Beatles - A Day In The Life.mp3</title>
+	<location>http://www.ex.ua/get/1515698</location>
+</track>
+<track>
+	<title>005 - The Who - Won&#39;t Get Fooled Again.mp3</title>
+	<location>http://www.ex.ua/get/1515704</location>
+</track>
+</trackList>
+</playlist>
